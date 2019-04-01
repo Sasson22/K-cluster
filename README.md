@@ -4,9 +4,9 @@ Real time data analytics
 
 Making use of threads on Debian OS to process and refine data at scale in real world applications of data science
 
-from our standard issued CFN machines (last ultrabooks issued 1st quarter 2016) running duel boot Debian OS/Windows
-From the Deb/Linux side we use
-VM
+Seamless conversions between dedicated containers and robust VMs
+
+from our standard issued CFN machines (last ultrabooks issued 1st quarter 2016) running Linux Kernel amd64 x86_64
     • Keras Py
     • Apache Spark
     • Python
